@@ -1,4 +1,4 @@
-# 🌸 Welcome to My Anime-inspired Project Repository! 🌸
+# 🌸 Welcome to My Project Repository! 🌸
 
 > **"The world isn't as cruel as you take it to be."** — Shingeki no Kyojin
 
@@ -6,7 +6,7 @@
 
 ## 🎉 About the Project
 
-Welcome to **My Anime World**, a repository where passion for coding meets the beauty of anime. This project is a perfect blend of creativity and functionality, inspired by the vibrant aesthetics of anime culture. Dive in and explore! ✨
+A repository where passion for coding meets the beauty of anime. This project is a perfect blend of creativity and functionality, inspired by the vibrant aesthetics of anime culture. Dive in and explore! ✨
 
 ---
 
@@ -30,33 +30,7 @@ Welcome to **My Anime World**, a repository where passion for coding meets the b
 
 ## 🎨 Aesthetic Preview
 
-![Anime Themed Preview](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
-
----
-
-## 📖 How to Use
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/dani-fernando/anime-themed-project.git
-   ```
-
-2. **Navigate to the project directory:**
-   ```bash
-   cd anime-themed-project
-   ```
-
-3. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-4. **Run the development server:**
-   ```bash
-   npm start
-   ```
-
-5. Open your browser and enjoy the aesthetic vibes at `http://localhost:3000`.
+![Anime Themed Preview](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHF0MGp5MGVrZWExcDdkN2NqdGxxM2V5anI1YjhkdGVobGM4bWJ4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vkb4aEjq5TqqQ/giphy.gif)
 
 ---
 
@@ -81,7 +55,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For any questions or suggestions:
 - 🌐 **GitHub**: [dani-fernando](https://github.com/dani-fernando)
-- 📧 **Email**: dani.fernando@example.com
+- 📧 **Email**: hello@danifernando.com
 
 ---
 
