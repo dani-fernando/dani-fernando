@@ -14,29 +14,8 @@ A repository where passion for coding meets the beauty of anime. This project is
 
 ---
 
-## 🛠️ Tech Stack
+[![Lazy Graph](https://github-readme-activity-graph.vercel.app/graph?username=dani-fernando&bg_color=1E1E2E&color=C9CBFF&line=F5E0DC&point=F38BA8&area_color=313244&title_color=B4BEFE&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- **Languages**: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- **Frameworks**: [React.js](https://reactjs.org/), [TailwindCSS](https://tailwindcss.com/)
-- **Version Control**: [Git](https://git-scm.com/) & [GitHub](https://github.com/)
-- **Hosting**: [Vercel](https://vercel.com/)
-
----
-
-## 🌸 Contributing
-
-We welcome all otaku and developers to contribute! Feel free to:
-- Report bugs 🐛
-- Suggest features 🌟
-- Submit pull requests 🚀
-
-Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information.
-
----
-
-## 🌟 Acknowledgments
-
-Special thanks to the anime community for inspiring us with boundless creativity and love. Let's keep coding with the spirit of our favorite characters! ❤️
 
 ---
 
