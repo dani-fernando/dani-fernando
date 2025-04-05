@@ -14,13 +14,9 @@ A repository where passion for coding meets the beauty of anime. This project is
 
 ---
 
-[![Lazy Graph](https://github-readme-activity-graph.vercel.app/graph?username=dani-fernando&bg_color=1E1E2E&color=C9CBFF&line=F5E0DC&point=F38BA8&area_color=313244&title_color=B4BEFE&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
----
-
 ## ✨ Closing Thought  
 Thank you for visiting! Don't forget to ⭐ star the repo if you like it! 😄   
 
-![Debian](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtxMGo0YmZkaDc1c2Q4a3A4dzR3ZHlwaDg1dmhlNjd4OTNyOHRhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fmcts17uRjaHKaNrfW/giphy.gif)
+---  
 
+[![Lazy Graph](https://github-readme-activity-graph.vercel.app/graph?username=dani-fernando&bg_color=1E1E2E&color=C9CBFF&line=F5E0DC&point=F38BA8&area_color=313244&title_color=B4BEFE&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
