@@ -36,20 +36,6 @@ Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information.
 
 ---
 
-## 🛡️ License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 Contact
-
-For any questions or suggestions:
-- 🌐 **GitHub**: [Dani Fernando](https://github.com/dani-fernando)
-- 📧 **Email**: hello@danifernando.com
-
----
-
 ## 🌟 Acknowledgments
 
 Special thanks to the anime community for inspiring us with boundless creativity and love. Let's keep coding with the spirit of our favorite characters! ❤️
@@ -57,4 +43,7 @@ Special thanks to the anime community for inspiring us with boundless creativity
 ---
 
 ## ✨ Closing Thought  
-Thank you for visiting! Don't forget to ⭐ star the repo if you like it! 😄
+Thank you for visiting! Don't forget to ⭐ star the repo if you like it! 😄   
+
+![Debian](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtxMGo0YmZkaDc1c2Q4a3A4dzR3ZHlwaDg1dmhlNjd4OTNyOHRhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fmcts17uRjaHKaNrfW/giphy.gif)
+
