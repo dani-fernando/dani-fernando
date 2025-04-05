@@ -1,4 +1,5 @@
 # 🌸 Welcome to My Project Repository! 🌸
+![Penguin](https://media.tenor.com/frFQUarNWE4AAAAi/penguin-dance-pengu.gif) ![Terminal](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2w2Y3BuZm1hZnZxcXFvZWtrN245eXJ5MXZzb205MGdwenhpOWxodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lWkqWj5OzADh0Ozt3e/giphy.gif) ![Penguin](https://media.tenor.com/frFQUarNWE4AAAAi/penguin-dance-pengu.gif)
 
 ## 🎉 About the Project
 
@@ -21,12 +22,6 @@ A repository where passion for coding meets the beauty of anime. This project is
 - **Frameworks**: [React.js](https://reactjs.org/), [TailwindCSS](https://tailwindcss.com/)
 - **Version Control**: [Git](https://git-scm.com/) & [GitHub](https://github.com/)
 - **Hosting**: [Vercel](https://vercel.com/)
-
----
-
-## 🎨 Aesthetic Preview
-
-![Anime Themed Preview](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHF0MGp5MGVrZWExcDdkN2NqdGxxM2V5anI1YjhkdGVobGM4bWJ4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vkb4aEjq5TqqQ/giphy.gif)
 
 ---
 
