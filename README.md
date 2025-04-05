@@ -1,9 +1,5 @@
 # 🌸 Welcome to My Project Repository! 🌸
 
-> **"The world isn't as cruel as you take it to be."** — Shingeki no Kyojin
-
----
-
 ## 🎉 About the Project
 
 A repository where passion for coding meets the beauty of anime. This project is a perfect blend of creativity and functionality, inspired by the vibrant aesthetics of anime culture. Dive in and explore! ✨
@@ -54,7 +50,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 📞 Contact
 
 For any questions or suggestions:
-- 🌐 **GitHub**: [dani-fernando](https://github.com/dani-fernando)
+- 🌐 **GitHub**: [Dani Fernando](https://github.com/dani-fernando)
 - 📧 **Email**: hello@danifernando.com
 
 ---
@@ -65,8 +61,5 @@ Special thanks to the anime community for inspiring us with boundless creativity
 
 ---
 
-## ✨ Closing Thought
-
-> **"A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something in return."** — Fullmetal Alchemist
-
+## ✨ Closing Thought  
 Thank you for visiting! Don't forget to ⭐ star the repo if you like it! 😄
